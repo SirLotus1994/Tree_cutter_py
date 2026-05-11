@@ -12,3 +12,5 @@ It does works for already segmented trees using an automatic algorithm, and is a
 3. Install dependencies (if any): `pip install numpy==1.26.4 laspy==2.5.1 matplotlib==3.8.2 PyQt5==5.15.10` (maybe good if you make a virtual environment for the packages, so you don't make conflicts up"
 
 4. run the script from your gui, I use Visual Studio Code. 
+
+A kind thanks for Tuomas and Carl (Co-Authors)
