@@ -7,14 +7,14 @@ abstract: >
 authors:
   - family-names: "Papucci"
     given-names: "Emanuele"
-    orcid: "https://orcid.org/0000-0000-0000-0000"   # FILL IN your ORCID
+    orcid: "https://orcid.org/0009-0000-4585-2467"  
     affiliation: "Swedish University of Agricultural Sciences (SLU)"
   - family-names: "Yrttimaa"
     given-names: "Tuomas"
 version: "1.6.0"
 date-released: "2026-05-26"
 license: MIT
-repository-code: "https://github.com/SirLotus1994/Py_TLS_cutter"
+repository-code: "https://github.com/SirLotus1994/Tree_cutter_py"
 keywords:
   - point cloud
   - LiDAR
