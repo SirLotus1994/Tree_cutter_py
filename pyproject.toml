@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tree-cutter-py"
+version = "1.6.0"
+description = "Interactive point-cloud tree cutter and reclassifier."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { file = "LICENSE" }
+authors = [
+    { name = "Emanuele Papucci", email = "emanuele.papucci@slu.se" },  
+    { name = "Tuomas Yrttimaa" },   
+]
+keywords = ["point-cloud", "lidar", "forestry", "tls", "segmentation"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Scientific/Engineering :: Visualization",
+]
+dependencies = [
+    "numpy==2.2.5",
+    "laspy==2.5.4",
+    "matplotlib==3.10.1",
+    "PyQt5==5.15.11",
+    "pyqtgraph>=0.13",
+    "PyOpenGL",
+]
+
+[project.urls]
+Homepage   = "https://github.com/SirLotus1994/Py_TLS_cutter"
+Repository = "https://github.com/SirLotus1994/Py_TLS_cutter"
+Issues     = "https://github.com/SirLotus1994/Py_TLS_cutter/issues"
+
+[project.scripts]
+tree-cutter = "tree_cutter.tree_cutter:main"
+
+[tool.setuptools.packages.find]
+include = ["tree_cutter*"]

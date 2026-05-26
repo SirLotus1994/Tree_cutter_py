@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "TreeCutterPy: interactive point-cloud tree cutter and reclassifier"
+abstract: >
+  A PyQt5/pyqtgraph tool for refining automatically segmented single-tree
+  point clouds, allowing manual lasso-based reassignment of point IDs.
+authors:
+  - family-names: "Papucci"
+    given-names: "Emanuele"
+    orcid: "https://orcid.org/0000-0000-0000-0000"   # FILL IN your ORCID
+    affiliation: "Swedish University of Agricultural Sciences (SLU)"
+  - family-names: "Yrttimaa"
+    given-names: "Tuomas"
+version: "1.6.0"
+date-released: "2026-05-26"
+license: MIT
+repository-code: "https://github.com/SirLotus1994/Py_TLS_cutter"
+keywords:
+  - point cloud
+  - LiDAR
+  - terrestrial laser scanning
+  - forestry
+  - tree segmentation
+# DOI line will be added after first Zenodo release:
+# doi: "10.5281/zenodo.XXXXXXX"

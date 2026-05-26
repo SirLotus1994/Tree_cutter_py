@@ -1,0 +1,32 @@
+# Python build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Point cloud data — never commit, too large
+*.las
+*.laz
+*.ply
+*.pcd
+
+# Output folders the tool creates
+output/
+results/
