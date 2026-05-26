@@ -30,9 +30,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage   = "https://github.com/SirLotus1994/Py_TLS_cutter"
-Repository = "https://github.com/SirLotus1994/Py_TLS_cutter"
-Issues     = "https://github.com/SirLotus1994/Py_TLS_cutter/issues"
+Homepage   = "https://github.com/SirLotus1994/Tree_cutter_py"
+Repository = "https://github.com/SirLotus1994/Tree_cutter_py"
+Issues     = "https://github.com/SirLotus1994/Tree_cutter_py/issues"
 
 [project.scripts]
 tree-cutter = "tree_cutter.tree_cutter:main"

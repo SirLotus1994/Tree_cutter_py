@@ -22,4 +22,11 @@ keywords:
   - forestry
   - tree segmentation
 # DOI line will be added after first Zenodo release:
-# doi: "10.5281/zenodo.XXXXXXX"
+doi: "10.5281/zenodo.20395899"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.20395899"
+    description: "Concept DOI — always resolves to the latest version"
+  - type: doi
+    value: "10.5281/zenodo.20395900"
+    description: "Version DOI for v1.6.0"

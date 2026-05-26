@@ -1,4 +1,5 @@
 # TreeCutterPy
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20395899.svg)](https://doi.org/10.5281/zenodo.20395899)
 
 This is a python package designed to help you cut and reclassify TLS and ALS points.
 It does works for already segmented trees using an automatic algorithm, and is an tool for refinement.
@@ -21,11 +22,4 @@ The code is generalized and it will ask for directories at the start. The input 
 
 If you use this software in academic work, please cite:
 
-> Papucci, E., Yrttimaa, T. (2026). *TreeCutterPy: interactive point-cloud tree cutter and reclassifier* (Version 1.6.0). Zenodo. https://doi.org/XX.XXXX/zenodo.XXXXXXX
-
-The `XX.XXXX/zenodo.XXXXXXX` is a placeholder — you'll replace it with your real DOI after Part D.
-
-You can also add a Zenodo badge at the very top of the README (under the `# TreeCutterPy` title). This is the line you'll paste in after Part D:
-
-```markdown
-[![DOI](https://zenodo.org/badge/DOI/XX.XXXX/zenodo.XXXXXXX.svg)](https://doi.org/XX.XXXX/zenodo.XXXXXXX)
+> Papucci, E., Yrttimaa, T. (2026). *TreeCutterPy: interactive point-cloud tree cutter and reclassifier* (Version 1.6.0). Zenodo. https://doi.org/10.5281/zenodo.20395899
