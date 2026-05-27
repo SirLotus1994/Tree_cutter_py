@@ -134,8 +134,3 @@ be updated once published.
 ## License
 
 MIT — see [LICENSE](LICENSE).
-
-## Acknowledgements
-
-Thanks to Tuomas Yrttimaa and Carl for the original tooling and ideas that
-this work refines.
