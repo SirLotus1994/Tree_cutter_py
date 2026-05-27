@@ -134,3 +134,6 @@ be updated once published.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+## Aknowledgments
+Thanks to Carl Vigren for technical help during the initial debugging phase.
